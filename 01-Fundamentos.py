@@ -1,6 +1,5 @@
 if __name__ =="__main__":
 
-    
     def OperadoresAritmeticos(parNum1, parNum2):
         print("----- Operadores Aritmeticos -----")
         print("Operador suma: ", parNum1+parNum2)
@@ -33,9 +32,9 @@ if __name__ =="__main__":
         print("False - True :",False or True)
         print("False - False :",False or False)
 
-
     OperadoresAritmeticos(2,2)
     OperadoresComparacion(2,2)
     TablasVerdad()
+  
 
 
