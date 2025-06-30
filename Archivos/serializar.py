@@ -1,7 +1,7 @@
 import pickle
 import os
 
-ruta_archivo = "./FundamentosPython/Archivos/archivoSerial.bin"
+ruta_archivo = "./Archivos/archivoSerial.bin"
 
 # Crear carpeta si no existe
 if not os.path.exists(os.path.dirname(ruta_archivo)):

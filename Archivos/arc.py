@@ -1,4 +1,4 @@
-ruta_archivo = "./FundamentosPython/Archivos/ArchivoTest.txt"
+ruta_archivo = "./Archivos/ArchivoTest.txt"
 
 file = open(ruta_archivo,"w")
 file.write("Test escritura"+ "\n")
