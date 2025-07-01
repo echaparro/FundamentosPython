@@ -15,6 +15,7 @@ class CuentaBancaria:
         return self.__saldo
 
 # -------------------Herencia--------------------
+# La herencia es pasar atributos y funciones a clases inferiores, en este ejemplo CocheGas hereda de vehiculo y por eso ya contiene la funicion arrancar
 
 
 class Vehiculo:
